@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there 👋 iam prasanna lakshmi
 
-<!--
-**prasannaboorsu/prasannaboorsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on machine learning
+- 🌱 I’m currently learning data science
+- 👯 I’m looking to collaborate on data analysis projects
+- 🤔 I’m looking for help with my career
+- 💬 want to know about me [plresume (1).pdf](https://github.com/prasannaboorsu/prasannaboorsu/files/13844133/plresume.1.pdf)
+- 📫 How to reach me: https://www.linkedin.com/in/prasanna-lakshmi-boorsu-705a5a27b/
+- 😄 Pronouns: she/her
+- ⚡ Fun fact ambitious
 -->
+
