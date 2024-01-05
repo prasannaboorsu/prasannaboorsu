@@ -9,8 +9,6 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact ambitious
 -->LINKEDIN :https://www.linkedin.com/in/prasanna-lakshmi-boorsu-705a5a27b/
---->Languages and tools :Languages and Tools:
+--->Languages and Tools:
 mssql mysql pandas python seaborn
-Most Used Languages
-HTML 65.53%
-Jupyter Notebook 34.4
+
