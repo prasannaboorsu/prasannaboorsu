@@ -8,7 +8,6 @@
 - 📫 How to reach me: prasannalb2003@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact ambitious
-> LINKEDIN :https://www.linkedin.com/in/prasanna-lakshmi-boorsu-705a5a27b/
-> Languages and Tools:
-mssql mysql pandas python seaborn
+- LINKEDIN :https://www.linkedin.com/in/prasanna-lakshmi-boorsu-705a5a27b/
+-  Languages and Tools: mssql mysql pandas python seaborn
 
