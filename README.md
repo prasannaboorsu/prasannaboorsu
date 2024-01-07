@@ -1,6 +1,6 @@
 ### Hi there 👋 iam prasanna lakshmi
 
-- 🔭 I’m currently working on machine learning
+- 🔭 I’m currently working on  acquiring machine learning skills
 - 🌱 I’m currently learning data science
 - 👯 I’m looking to collaborate on data analysis projects
 - 🤔 I’m looking for help with my career
